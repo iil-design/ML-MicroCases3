@@ -30,7 +30,7 @@
 
 混淆矩阵：
 
-<img width="804" height="588" alt="image" src="https://github.com/user-attachments/assets/76501c91-25bb-4fe7-8d46-486fcb7283ef" />
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/76501c91-25bb-4fe7-8d46-486fcb7283ef" />
 
 ROC曲线：
 
