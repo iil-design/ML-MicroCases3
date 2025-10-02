@@ -38,7 +38,7 @@ ROC曲线：
 
 KS曲线：
 
-<img width="873" height="719" alt="image" src="https://github.com/user-attachments/assets/d8f7ad9e-7c0d-401a-823c-148867fff352" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d8f7ad9e-7c0d-401a-823c-148867fff352" />
 
 
 随机森林
@@ -49,11 +49,11 @@ KS曲线：
 
 ROC曲线：
 
-<img width="894" height="747" alt="image" src="https://github.com/user-attachments/assets/fca972f7-a806-4d5a-8e4f-7391a5fe40e6" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/fca972f7-a806-4d5a-8e4f-7391a5fe40e6" />
 
 KS曲线：
 
-<img width="873" height="726" alt="image" src="https://github.com/user-attachments/assets/59127379-345d-420b-bc17-cb6b27715e40" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/59127379-345d-420b-bc17-cb6b27715e40" />
 
 
 XGBoost
@@ -64,11 +64,11 @@ XGBoost
 
 ROC曲线：
 
-<img width="867" height="726" alt="image" src="https://github.com/user-attachments/assets/da89b01d-5ffa-4140-9945-2af5d3ef662a" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/da89b01d-5ffa-4140-9945-2af5d3ef662a" />
 
 KS曲线：
 
-<img width="878" height="738" alt="image" src="https://github.com/user-attachments/assets/d393d53b-dcaf-41c5-9c49-e64d738f5936" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d393d53b-dcaf-41c5-9c49-e64d738f5936" />
 
 
 支持向量机
@@ -79,11 +79,11 @@ KS曲线：
 
 ROC曲线：
 
-<img width="861" height="723" alt="image" src="https://github.com/user-attachments/assets/18ebee52-07bd-435d-95a7-6ba5319f85dd" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/18ebee52-07bd-435d-95a7-6ba5319f85dd" />
 
 KS曲线：
 
-<img width="873" height="726" alt="image" src="https://github.com/user-attachments/assets/cabd92c6-5790-45b6-8334-1e7dec3bf7b3" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/cabd92c6-5790-45b6-8334-1e7dec3bf7b3" />
 
 
 朴素贝叶斯
@@ -94,11 +94,11 @@ KS曲线：
 
 ROC曲线：
 
-<img width="884" height="737" alt="image" src="https://github.com/user-attachments/assets/09085080-10dc-4eb5-a7f5-488b7fb59888" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/09085080-10dc-4eb5-a7f5-488b7fb59888" />
 
 KS曲线：
 
-<img width="878" height="729" alt="image" src="https://github.com/user-attachments/assets/da840f5a-c30d-45c6-9f22-901538193aa5" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/da840f5a-c30d-45c6-9f22-901538193aa5" />
 
 分析总结：
 
