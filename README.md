@@ -34,7 +34,7 @@
 
 ROC曲线：
 
-<img width="885" height="732" alt="image" src="https://github.com/user-attachments/assets/c5f20ee2-ca5e-48ea-9f5b-c20250856095" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c5f20ee2-ca5e-48ea-9f5b-c20250856095" />
 
 KS曲线：
 
@@ -45,7 +45,7 @@ KS曲线：
 
 混淆矩阵：
 
-<img width="831" height="603" alt="image" src="https://github.com/user-attachments/assets/fe97050a-b0b3-4ce0-95be-4c5ad3f3a314" />
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/fe97050a-b0b3-4ce0-95be-4c5ad3f3a314" />
 
 ROC曲线：
 
@@ -60,7 +60,7 @@ XGBoost
 
 混淆矩阵：
 
-<img width="774" height="594" alt="image" src="https://github.com/user-attachments/assets/b1519980-1812-4c5e-b4d4-174ccd5e2236" />
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/b1519980-1812-4c5e-b4d4-174ccd5e2236" />
 
 ROC曲线：
 
@@ -75,7 +75,7 @@ KS曲线：
 
 混淆矩阵：
 
-<img width="813" height="591" alt="image" src="https://github.com/user-attachments/assets/2f1a6a7e-aaf3-4e2f-953a-463ce825e269" />
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/2f1a6a7e-aaf3-4e2f-953a-463ce825e269" />
 
 ROC曲线：
 
@@ -90,7 +90,7 @@ KS曲线：
 
 混淆矩阵：
 
-<img width="855" height="585" alt="image" src="https://github.com/user-attachments/assets/ce270f30-fa4c-4f71-aa3c-9e549abe940c" />
+<img width="650" height="500" alt="image" src="https://github.com/user-attachments/assets/ce270f30-fa4c-4f71-aa3c-9e549abe940c" />
 
 ROC曲线：
 
